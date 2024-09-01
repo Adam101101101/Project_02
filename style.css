@@ -1,0 +1,114 @@
+body{
+    height: 100vh;
+    background-color: hsl(0, 0%, 8%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:Roboto;
+}
+.main{
+    height: 450px;
+    width: 285px;
+    background-color: hsla(0, 0%, 15%, 0.527);
+  
+}
+.img1{
+    border-radius: 12px;
+   display: flex;
+   justify-content: center; 
+}
+img{
+    height: 60px;
+    border-radius: 100%;
+    margin-top: 30px;
+}
+.details{
+    display: flex;
+   justify-content: center; 
+
+}
+
+h4{
+    color: rgba(255, 255, 255, 0.668);
+}
+h5{
+    padding: 0px;
+    margin-left: -88px;
+    margin-top: 44px;
+    color: rgba(255, 255, 0, 0.693);
+    align-self: center;
+}
+p{
+    color:  hsla(0, 0%, 100%, 0.589);
+    font-size: 10px;
+    margin-left: 70px;
+    margin-top: -5px;
+}
+.box{
+    display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+   color: rgba(255, 255, 255, 0.737);
+   font-size: 10px;
+}
+
+.github-link{
+    height: 30px;
+    width: 206px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius:8px;
+    margin-left: 36px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+.linkedin-link{
+    height: 30px;
+    width: 206px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 8px;
+    margin-left: 36px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+.three{
+    height: 30px;
+    width: 206px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 8px;
+    margin-left: 36px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+
+}
+.fourth{
+    height: 30px;
+    width: 206px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 8px;
+    margin-left: 36px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+.five{
+    height: 30px;
+    width: 206px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 8px;
+    margin-left: 36px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
